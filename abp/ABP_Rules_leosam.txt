@@ -1,0 +1,43 @@
+[Adblock Plus 2.0]
+! Version: 20201117
+! Title: ABP for leosam
+! Last modified: 2020年11月17日16:57:34
+! Fork of: EasyList https://easylist.adblockplus.org/
+
+2345.com
+
+52pojie.cn##.plc.plm
+52pojie.cn##.dnch_eo_pt
+52pojie.cn##.dnch_eo_pb
+
+ithome.com###side_func
+ithome.com###tt50
+ithome.com##.bx1
+ithome.com##.focus_area
+ithome.com##.newsgrade
+ithome.com##.related_post
+ithome.com##.sidebar
+ithome.com##.rewarduserlist
+dyn.ithome.com##.add_comm
+dyn.ithome.com###post_comment
+||ithome.com/json/hot/dajia.htm
+
+mpyit.com###playBox
+mpyit.com###post-40879
+mpyit.com###post-41303
+mpyit.com###post-41471
+mpyit.com##.custom-html-widget
+mpyit.com##.header_c
+mpyit.com##.box
+mpyit.com##.textwidget
+mpyit.com##.tagcloud
+mpyit.com##.custom-html-widget
+||laomo.me/cdn/js/line.js
+||i.loli.net/2019/05/28/5cec84fe586d078432.gif
+||zz.bdstatic.com/linksubmit/push.js
+||rjsos.com
+
+/assets/js/fuck.js
+
+||dayanzai.me/image/ad/*$domain=www.inoreader.com
+||cdn.v2ex.com/assets/*$domain=www.inoreader.com
