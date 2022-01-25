@@ -8,7 +8,7 @@ proxyConfig:
         matchType: "prefix" # paths匹配模式, exact：精确匹配、prefix：前缀匹配、regexp：正则匹配
     hosts: # 要并发访问的host
       - host: "https://id9.cc"
-        weight: 2
+        weight: 1
       - host: "https://sub.xeton.dev"
         weight: 2
       - host: "https://api.dler.io"
